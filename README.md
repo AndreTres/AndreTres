@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Andre Tres
 
-🚀 **Junior Software Engineer | Java & JavaScript**  
+🚀 **Junior Software Engineer | Java, Python, TypeScript**  
 🇧🇷 Brazil
 
 I build **scalable softwares**, **landing pages**, and **high-performance web systems**.  
