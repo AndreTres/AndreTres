@@ -3,7 +3,7 @@
 🚀 **Junior Software Engineer | Java, Python, TypeScript**  
 🇧🇷 Brazil
 
-I build **scalable softwares**, **landing pages**, and **high-performance web systems**.  
+I build **scalable softwares**, **landing pages**, and **web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and great solutions**.
 
 ---
@@ -11,9 +11,6 @@ I’m deeply focused on **architecture, performance, clean code, and great solut
 ## 🌐 Where to find me?
 
 <p align="left">
-
-  <a href="https://github.com/andretres">
-    <img src="https://img.shields.io/badge/GitHub-ANDRETRES-181717?style=for-the-badge&logo=github" />
 
   <a href="https://www.linkedin.com/in/andre-luis-tres-guerlando-29626a34a/">
     <img src="https://img.shields.io/badge/LinkedIn-ANDRETRES-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,11 +21,11 @@ I’m deeply focused on **architecture, performance, clean code, and great solut
 
 ## 🧠 What I do
 
--   🏗️ Scalable Systems - APIs REST
--   ⚡ Performance Optimization
--   🧩 Layer Architecture & System Design
--   🔐 Secure Authentication, Routing
--   🤖 Automated Tests and Error Handling 
+-   Scalable Systems - APIs REST
+-   Layer Architecture & System Design
+-   Project Documentation
+-   Features Development
+-   Automated Tests, reviews and quality checks  
 
 ---
 
