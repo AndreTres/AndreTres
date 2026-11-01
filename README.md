@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Andre Tres
 
 🚀 **Junior Software Engineer | Java, Python, TypeScript**  
-🇧🇷 Brazil
+<span>&#x1f1e7;&#x1f1f7;</span>
 
 I build **scalable softwares**, **landing pages**, and **web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and great solutions**.
